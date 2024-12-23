@@ -41,7 +41,7 @@ const EnesHalitPortfolio = () => {
         return (
           <div className="text-center p-8">
             <img 
-              src="src\assets\photo.jpg" 
+              src="assets\photo.jpg"
               alt="Enes Halit" 
               className="rounded-full mx-auto mb-4 w-48 h-48 object-cover border-4 border-blue-500"
             />
